@@ -1,0 +1,33 @@
+h1
+{
+    text-align: center;
+    font-size: 10em;
+    color: darkred;
+    width: 50%;
+    margin: 0 auto .5em;
+    border: solid darkred 5px;
+    border-radius: 25px;
+    font-family: Georgia;
+    background-color: antiquewhite;
+}
+
+body
+{
+    background-image: url("wp2315635-animated-pizza-wallpapers (1).gif");
+}
+
+button
+{
+    color: darkred;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: .25em;
+    padding-bottom: .25em;
+    font-size: 10em;
+    font-family: cursive;
+    border: solid darkred 5px;
+    border-radius: 25px;
+    background-color: antiquewhite;
+}
